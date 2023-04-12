@@ -1,1 +1,1 @@
-# 3MEMS-Elctrostatically-Coupled-model
+# 3MEMS-Elctrostatically-Coupled-Model
